@@ -19,6 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
        print("--------")
         print("2222222")
         print("3333")
+        print("4444444")
         return true
     }
 
